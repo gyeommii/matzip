@@ -20,7 +20,7 @@
 - **Oracle (DB)**
 - **Spring Framework (Spring Boot)**
 - **JPA**
----
+
 ### 
 - **HTML**
 - **CSS**
